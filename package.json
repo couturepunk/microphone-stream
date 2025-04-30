@@ -49,12 +49,12 @@
   "homepage": "https://github.com/microphone-stream/microphone-stream#readme",
   "dependencies": {
     "buffer-from": "^1.1.1",
-    "readable-stream": "^3.6.0"
+    "readable-stream": "^4.7.0"
   },
   "devDependencies": {
     "@types/buffer-from": "^1.1.0",
     "@types/mocha": "^8.2.0",
-    "@types/readable-stream": "^2.3.9",
+    "@types/readable-stream": "^4.0.18",
     "@typescript-eslint/eslint-plugin": "^4.15.0",
     "@typescript-eslint/parser": "^4.15.0",
     "eslint": "^7.19.0",
